@@ -12,8 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=armlanil001&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=armlanil001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=armlanil001&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=armlanil001&icon=0&color=0)](https://visitcount.itsvg.in)
